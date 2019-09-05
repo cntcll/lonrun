@@ -1,10 +1,11 @@
 {
-  "homepage": "https://cntcll.github.io/react-tutorial",
+  "homepage": "https://cntcll.github.io/longrun",
   "name": "longrun",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
+    "react-app-polyfill": "^1.0.2",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
@@ -30,8 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.1.1"
   }
 }
