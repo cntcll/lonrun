@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc9f2dbb30a4d23dc0a50d2011c15405",
+    "revision": "bf005ed94363e652911e0489205c11f7",
     "url": "/longrun/index.html"
   },
   {
-    "revision": "2bb757e77495f5ebd287",
+    "revision": "e4943ff21b16bba6d8c0",
     "url": "/longrun/static/css/main.bf286928.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/longrun/static/js/2.37570b65.chunk.js"
   },
   {
-    "revision": "2bb757e77495f5ebd287",
-    "url": "/longrun/static/js/main.00faf3a7.chunk.js"
+    "revision": "e4943ff21b16bba6d8c0",
+    "url": "/longrun/static/js/main.f1d93f83.chunk.js"
   },
   {
     "revision": "9f17ffaea37e007f5bb2",

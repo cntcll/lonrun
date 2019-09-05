@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/longrun/static/css/main.bf286928.chunk.css",
-    "main.js": "/longrun/static/js/main.00faf3a7.chunk.js",
-    "main.js.map": "/longrun/static/js/main.00faf3a7.chunk.js.map",
+    "main.js": "/longrun/static/js/main.f1d93f83.chunk.js",
+    "main.js.map": "/longrun/static/js/main.f1d93f83.chunk.js.map",
     "runtime~main.js": "/longrun/static/js/runtime~main.40d006f5.js",
     "runtime~main.js.map": "/longrun/static/js/runtime~main.40d006f5.js.map",
     "static/js/2.37570b65.chunk.js": "/longrun/static/js/2.37570b65.chunk.js",
     "static/js/2.37570b65.chunk.js.map": "/longrun/static/js/2.37570b65.chunk.js.map",
     "index.html": "/longrun/index.html",
-    "precache-manifest.45e2b392a9b9d71d3e72369e0dfe9a8a.js": "/longrun/precache-manifest.45e2b392a9b9d71d3e72369e0dfe9a8a.js",
+    "precache-manifest.ef33563c032be853e39f789cda4dbadd.js": "/longrun/precache-manifest.ef33563c032be853e39f789cda4dbadd.js",
     "service-worker.js": "/longrun/service-worker.js",
     "static/css/main.bf286928.chunk.css.map": "/longrun/static/css/main.bf286928.chunk.css.map"
   }
